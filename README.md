@@ -2,10 +2,10 @@
 Simple web application. It allows users to listen to Quranic verses, explore different surahs, and toggle between light and dark modes. 
 
 ## Features
-** Surah Selection: Browse and select different surahs to listen to their respective verses.
-** Audio Playback: Play, pause, and navigate through Quranic verses with audio support.
-** Change Mode: Toggle between light and dark modes for a comfortable viewing experience.
-** Search Functionality: Search for specific surahs in both Arabic and English.
+* Surah Selection: Browse and select different surahs to listen to their respective verses.
+* Audio Playback: Play, pause, and navigate through Quranic verses with audio support.
+* Change Mode: Toggle between light and dark modes for a comfortable viewing experience.
+* Search Functionality: Search for specific surahs in both Arabic and English.
 
 ## Usage
 1. Open the index.html file in your preferred web browser.
@@ -20,3 +20,16 @@ Clone the repository:
 ```
     https://github.com/NoorseenQandil/Quran-Kareem.git
 ```
+
+## Live Demo
+Experience the Tabs Project in action! Click the link below to access the live demo: 
+Check out the live demo [here](https://noorseenqandil.github.io/Quran-Kareem/)
+
+
+Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
+
+## Contributing
+If you have suggestions or find issues with the template, feel free to open an issue or create a pull request. Contributions are welcome!
+
+## Contact
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at nourseenqandil@gmail.com. We value your input and would love to hear from you! 
