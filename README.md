@@ -1,5 +1,6 @@
 # Quran-Kareem
 Simple web application. It allows users to listen to Quranic verses, explore different surahs, and toggle between light and dark modes. 
+![Design](https://github.com/NoorseenQandil/Quran-Kareem/assets/70522199/5c32ad7e-848c-4f1a-a395-cc0c05e1b062)
 
 ## Features
 * Surah Selection: Browse and select different surahs to listen to their respective verses.
